@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Releases Nexus Repository</name>
-	      <url>http://18.143.188.80:9980/mounika/repository/icicbank-Release/</url>
+	      <url>http://18.142.254.179:9980/mounika/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Snapshot Nexus Repository </name>
-	      <url>http://18.143.188.80:9980/mounika/repository/icicibank-Snapshot/</url>
+	      <url>http://18.142.254.179:9980/mounika/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
